@@ -10,13 +10,21 @@ java Lab2
 
 How to Test / Run Demo
 
-When you run the program, you’ll be asked for inputs.
+When you run the program, you’ll be asked for inputs. 
+
 Enter media source (local/stream/api): api
+
 Enter media name: SongDemo.mp3
+
 Use hardware rendering? (yes/no): yes
+
 Enable subtitles? (yes/no): yes
+
 Enable equalizer? (yes/no): no
+
 Enable watermark? (yes/no): yes
+
+
 
 Expected Behavior:
 
