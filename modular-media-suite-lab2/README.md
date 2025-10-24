@@ -4,13 +4,9 @@
 
 Steps of Running the Program
 
--Open the project folder.
-
--Open Lab2.java inside the src folder.
-
--Click the Run ▶ button.
-
-
+cd src
+javac Lab2.java
+java Lab2
 
 How to Test / Run Demo
 
@@ -37,7 +33,4 @@ Uses caching for remote streams (Proxy pattern)
 
 
 
-Author
-Jeffrey Indong IT2A 
-BS Information Technology – Structural Design Pattern Laboratory 2  
-Date: October 24 2025
+
